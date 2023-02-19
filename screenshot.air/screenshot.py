@@ -1,0 +1,1 @@
+Template(r"event_login_cancle.png", record_pos=(0.396, -0.647), resolution=(810, 1440))

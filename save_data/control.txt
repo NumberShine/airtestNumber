@@ -1,0 +1,3 @@
+battle 0
+hq 0
+jian 0
